@@ -9,7 +9,7 @@ public class Main {
         Ingeniero.setTel(8753545);
 
 
-        System.out.println(Ingeniero.getNombre() + "\n" +  Ingeniero.getEdad() + "\n" + Ingeniero.getTel() );
+        System.out.println("Mi nombres es: " + Ingeniero.getNombre() + "\n" + "Mi edad es: " + Ingeniero.getEdad() + "\n" + "Mi telefono es: " + Ingeniero.getTel() );
     }
 }
 
